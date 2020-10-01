@@ -29,5 +29,5 @@ if user == 'scissor':
     elif computer == 'paper':
         print('user wins')
 
-print('computer is {}'.format(computer))
-print('user is {}'.format(user))
+print(f'Computer is {computer}.')
+print(f'User is {user}.')
